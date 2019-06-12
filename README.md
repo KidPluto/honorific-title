@@ -1,4 +1,4 @@
-# honorific-title
+# Honorific Title
 An application to create a random honorific title
 
 A Slack applicaiton, written in Kotlin, running as an AWS Lambda
