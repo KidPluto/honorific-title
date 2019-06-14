@@ -29,3 +29,7 @@ https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/lambda-tutorial.ht
 https://github.com/aws-samples/lambda-kotlin-groovy-example
 
 https://git.forge.lmig.com/projects/GUADE/repos/diomedes-bot/browse
+
+Example Slack Apps
+
+Shuttle List: https://lmbnewtech.slack.com/apps/A9Z3847EV-shuffle-list?next_id=0
