@@ -33,3 +33,5 @@ https://git.forge.lmig.com/projects/GUADE/repos/diomedes-bot/browse
 Example Slack Apps
 
 Shuttle List: https://lmbnewtech.slack.com/apps/A9Z3847EV-shuffle-list?next_id=0
+Usage:
+/shuffle word1 word2 word3 word4
