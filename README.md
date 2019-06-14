@@ -35,3 +35,5 @@ Example Slack Apps
 Shuttle List: https://lmbnewtech.slack.com/apps/A9Z3847EV-shuffle-list?next_id=0
 Usage:
 /shuffle word1 word2 word3 word4
+
+CloudForge Console: https://console.forge.lmig.com/artifact/e64786d7-3db8-4323-92e3-9e8f530a0052
