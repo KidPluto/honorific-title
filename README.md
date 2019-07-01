@@ -2,6 +2,8 @@
 
 A Slack applicaiton, written in Kotlin, running as an AWS Lambda
 
+The idea is that a random title will be given to a user.
+
 Usage
 
 /award-title @user
@@ -10,6 +12,10 @@ Usage
 
 /show-titles
 
+
+Additonal features
+
+Store assigned titles, so that /show-titles returns a list of users and their titles.
 
 
 Title sources
