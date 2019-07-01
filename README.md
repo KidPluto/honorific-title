@@ -7,11 +7,15 @@ The idea is that a random title will be given to a user.
 Usage
 
 /award-title @user
+The user @user has been give the honorific title of @title
 
 /assign-title @user "title"
+The user @user has been give the honorific title of "title"
 
 /show-titles
-
+@user @title
+@user2 @title2
+...
 
 Additonal features
 
