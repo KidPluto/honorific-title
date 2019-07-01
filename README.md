@@ -4,7 +4,7 @@ A Slack applicaiton, written in Kotlin, running as an AWS Lambda
 
 The idea is that a random title will be given to a user.
 
-Usage
+## Usage
 
 /award-title @user
 The user @user has been give the honorific title of @title
@@ -17,16 +17,16 @@ The user @user has been give the honorific title of "title"
 @user2 @title2
 ...
 
-Additonal features
+## Additonal features
 
 Store assigned titles, so that /show-titles returns a list of users and their titles.
 
 
-Title sources
+## Title sources
 
 https://en.wikipedia.org/wiki/List_of_Kim_Jong-il%27s_titles
 
-How to create slack app
+## How to create slack app
 
 https://api.slack.com/start/overview
 
@@ -40,7 +40,7 @@ https://github.com/aws-samples/lambda-kotlin-groovy-example
 
 https://git.forge.lmig.com/projects/GUADE/repos/diomedes-bot/browse
 
-Example Slack Apps
+## Example Slack Apps
 
 Shuttle List: https://lmbnewtech.slack.com/apps/A9Z3847EV-shuffle-list?next_id=0
 Usage:
