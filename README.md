@@ -47,3 +47,7 @@ Usage:
 /shuffle word1 word2 word3 word4
 
 CloudForge Console: https://console.forge.lmig.com/artifact/e64786d7-3db8-4323-92e3-9e8f530a0052
+
+## Creating AWS Lambda
+
+* https://docs.aws.amazon.com/cloud9/latest/user-guide/lambda-functions.html?icmpid=docs_ac9_console_or_ide#lambda-functions-prepare
